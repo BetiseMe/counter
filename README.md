@@ -4,4 +4,4 @@
 
 Build a Javascript passenger counter, tutorial by SCRIMBA, and add your own function to it. Change the stylesheet of the application according to your preferences. Deploy your first app.
 
-[Demo](https://count-cars-simple.netlify.app/)
+[Demo](https://count-cars.netlify.app/)
