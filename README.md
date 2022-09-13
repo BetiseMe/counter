@@ -2,6 +2,8 @@
 
 Simple counter to keep track of cars, bicycles, pedestrians, passengers, and so forth.
 
+![screencap](https://github.com/BetiseMe/counter/blob/main/count.jpg?raw=true)
+
 [Live Demo](https://countcars.netlify.app/)
 
 Updates: Removed the random background, it took too long to refresh the page.
